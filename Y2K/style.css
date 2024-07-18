@@ -312,17 +312,17 @@ video {
 }
 
 #warning {
-  height: 100px;
-  width: 200px;
+  height: 160px;
+  width: 260px;
 }
 
 #fun {
-  height: 200px;
+  height: 260px;
   transform: translateX();
 }
 
 #hit {
-  height: 200px;
+  height: 260px;
 }
 
 #vid1 {
